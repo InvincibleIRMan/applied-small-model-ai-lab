@@ -56,19 +56,6 @@ By the end of Season 1 you will be able to:
 
 ---
 
-## Release Status
-
-| Week | Status |
-|------|--------|
-| Week 01 – Welcome | Released Jun 8, 2026 |
-| Week 02 – Hello sLM | Coming Soon |
-| Week 03 – Chat Templates | Coming Soon |
-| Week 04 – Why Fine-Tuning | Coming Soon |
-| Week 05 – Fine-Tuning | Coming Soon |
-| Week 06 – llama.cpp Deployment | Coming Soon |
-
----
-
 ## Repository Structure
 
 ```
