@@ -45,11 +45,11 @@ By the end of Season 1 you will be able to:
 | Week | Topic | Release Date | YouTube | Substack | Notebook |
 |------|-------|-------------|---------|----------|----------|
 | 01 | Welcome to Applied Small Models AI Lab | Jun 8, 2026 | [Watch](https://youtube.com) | [Read](https://substack.com) | — |
-| 02 | Hello Small Language Models: Running Your First Local LLM | Jun 15, 2026 | Coming Soon | Coming Soon | Coming Soon |
-| 03 | Mastering Chat Templates: The Hidden Language of LLMs | Jun 22, 2026 | Coming Soon | Coming Soon | Coming Soon |
-| 04 | Why Fine-Tuning Matters: Beyond Prompt Engineering | Jun 29, 2026 | Coming Soon | Coming Soon | Coming Soon |
-| 05 | Fine-Tuning Small Language Models for Specialized Tasks | Jul 6, 2026 | Coming Soon | Coming Soon | Coming Soon |
-| 06 | Deploying Small Language Models with llama.cpp | Jul 13, 2026 | Coming Soon | Coming Soon | Coming Soon |
+| 02 | Hello Small Language Models: Running Your First Local LLM | Jun 15, 2026 | — | — | — |
+| 03 | Mastering Chat Templates: The Hidden Language of LLMs | Jun 22, 2026 | — | — | — |
+| 04 | Why Fine-Tuning Matters: Beyond Prompt Engineering | Jun 29, 2026 | — | — | — |
+| 05 | Fine-Tuning Small Language Models for Specialized Tasks | Jul 6, 2026 | — | — | — |
+| 06 | Deploying Small Language Models with llama.cpp | Jul 13, 2026 | — | — | — |
 
 > **Links are updated every Monday on release day.**
 > Star the repo to get notified automatically.
