@@ -105,21 +105,7 @@ applied-small-models-ai-lab/
 
 - Python 3.10+
 - [uv](https://docs.astral.sh/uv/) or `pip` for package management
-- CUDA GPU recommended for fine-tuning weeks; CPU is fine for inference weeks
-
-### Install
-
-```bash
-git clone https://github.com/your-username/applied-small-models-ai-lab.git
-cd applied-small-models-ai-lab
-
-# create a virtual environment
-python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-
-# install dependencies for the week you're working on
-pip install -r week-02-hello-slm/code/requirements.txt
-```
+- A CUDA-enabled NVIDIA GPU is ESSENTIAL for running the labs efficiently. If you do not have access to one, you can use Google Colab, which offers free access to NVIDIA T4 GPUs and is sufficient for most course exercises.
 
 ---
 
