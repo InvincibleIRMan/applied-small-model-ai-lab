@@ -131,20 +131,6 @@ pip install -r week-02-hello-slm/code/requirements.txt
 4. **Experiment** — tweak the code, break things, rebuild.
 5. **Share** your results or questions in the Discussions tab.
 
----
-
-## Future Seasons (Planned)
-
-| Season | Focus |
-|--------|-------|
-| Season 2 | Quantization & Model Compression |
-| Season 3 | Retrieval-Augmented Generation (RAG) |
-| Season 4 | Function Calling & Tool Use |
-| Season 5 | Agentic AI with Small Models |
-| Season 6 | Vision Language Models |
-| Season 7 | Small Language Models for Cybersecurity |
-
----
 
 ## Contributing
 
