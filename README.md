@@ -143,7 +143,6 @@ You are free to use, adapt, and share the code with attribution.
 - **YouTube:** [Applied Small Models AI Lab](https://youtube.com)
 - **Substack:** [Applied Small Models AI Lab](https://substack.com)
 - **GitHub Discussions:** Use the Discussions tab for questions
-- **Email:** sadegh.pub@gmail.com
 
 ---
 
