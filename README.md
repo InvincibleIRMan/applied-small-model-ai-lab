@@ -3,8 +3,8 @@
 > A hands-on journey into Small Language Models — from running your first local model to fine-tuning and deployment with llama.cpp.
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-Applied_Small-Model_Lab-red?logo=youtube)](https://youtube.com/@AppliedSLMLab)
-[![Substack](https://img.shields.io/badge/Substack-Applied_Small-Model_Lab-orange?logo=substack&logoColor=white)](https://appliedslmlab.substack.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Applied_SM_Lab-red?logo=youtube)](https://youtube.com/@AppliedSLMLab)
+[![Substack](https://img.shields.io/badge/Substack-Applied_SM_Lab-orange?logo=substack&logoColor=white)](https://appliedslmlab.substack.com)
 [![Website](https://img.shields.io/badge/🌐_Website-sadegh--mh.com-green)](https://sadegh-mh.com)
 
 
