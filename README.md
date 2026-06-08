@@ -138,12 +138,4 @@ You are free to use, adapt, and share the code with attribution.
 
 ---
 
-## Contact
-
-- **YouTube:** [Applied Small Models AI Lab](https://www.youtube.com/@appliedsmlab)
-- **Substack:** [Applied Small Models AI Lab](https://smallmodelslab.substack.com/)
-- **GitHub Discussions:** Use the Discussions tab for questions
-
----
-
 *If this series helps you, consider starring the repo — it helps others find it.*
