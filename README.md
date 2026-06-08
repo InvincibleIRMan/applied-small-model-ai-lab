@@ -2,8 +2,8 @@
 
 > A hands-on journey into Small Language Models — from running your first local model to fine-tuning and deployment with llama.cpp.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Applied_SLM_Lab-red?logo=youtube)](https://youtube.com/@AppliedSLMLab)
-[![Substack](https://img.shields.io/badge/Substack-Applied_SLM_Lab-orange?logo=substack&logoColor=white)](https://appliedslmlab.substack.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Applied_SLM_Lab-red?logo=youtube)](https://www.youtube.com/@appliedsmlab)
+[![Substack](https://img.shields.io/badge/Substack-Applied_SLM_Lab-orange?logo=substack&logoColor=white)](https://smallmodelslab.substack.com/)
 [![Website](https://img.shields.io/badge/🌐_Website-sadegh--mh.com-green)](https://sadegh-mh.com)
 
 
@@ -44,7 +44,7 @@ By the end of Season 1 you will be able to:
 
 | Week | Topic | Release Date | YouTube | Substack | Notebook |
 |------|-------|-------------|---------|----------|----------|
-| 01 | Welcome to Applied Small Models AI Lab | Jun 8, 2026 | [Watch](https://youtube.com) | [Read](https://substack.com) | — |
+| 01 | Welcome to Applied Small Models AI Lab | Jun 8, 2026 | [Watch](https://www.youtube.com/channel/UCvTucZbIhpArq_61DcQJG2w) | [Read](https://smallmodelslab.substack.com/p/welcome-to-the-applied-small-models) | — |
 | 02 | Hello Small Language Models: Running Your First Local LLM | Jun 15, 2026 | — | — | — |
 | 03 | Mastering Chat Templates: The Hidden Language of LLMs | Jun 22, 2026 | — | — | — |
 | 04 | Why Fine-Tuning Matters: Beyond Prompt Engineering | Jun 29, 2026 | — | — | — |
@@ -140,8 +140,8 @@ You are free to use, adapt, and share the code with attribution.
 
 ## Contact
 
-- **YouTube:** [Applied Small Models AI Lab](https://youtube.com)
-- **Substack:** [Applied Small Models AI Lab](https://substack.com)
+- **YouTube:** [Applied Small Models AI Lab](https://www.youtube.com/@appliedsmlab)
+- **Substack:** [Applied Small Models AI Lab](https://smallmodelslab.substack.com/)
 - **GitHub Discussions:** Use the Discussions tab for questions
 
 ---
