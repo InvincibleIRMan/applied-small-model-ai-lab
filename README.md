@@ -55,6 +55,14 @@ By the end of Season 1 you will be able to:
 > **Links are updated every Monday on release day.**
 > Star the repo to get notified automatically.
 
+### Special Labs
+
+Bonus content released outside the weekly schedule — standalone deep-dives, timely topics, and community-requested labs. These are independent of the 6-week curriculum and can be followed in any order.
+
+| # | Topic | Release Date | YouTube | Substack | Notebook |
+|---|-------|-------------|---------|----------|----------|
+| 01 | Loop Engineering with Local Qwen Models | Jun 25, 2026 | — | — | [Hands-on Notebook](special_labs/special-01-loop-engineering/Loop_Engineering.ipynb) |
+
 ---
 
 ## Repository Structure
@@ -92,10 +100,16 @@ applied-small-models-ai-lab/
 │   ├── code/
 │   └── assets/
 │
-└── week-06-llama-cpp-deployment/
-    ├── week06_llama_cpp.ipynb
-    ├── code/
-    └── assets/
+├── week-06-llama-cpp-deployment/
+│   ├── week06_llama_cpp.ipynb
+│   ├── code/
+│   └── assets/
+│
+└── special_labs/                      ← bonus lessons released outside the main schedule
+    └── special-NN-topic-name/
+        ├── README.md              ← setup and usage guide for this lesson
+        ├── figures/               ← images and diagrams
+        └── *.ipynb                ← hands-on notebook
 ```
 
 ---
