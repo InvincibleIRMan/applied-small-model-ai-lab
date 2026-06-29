@@ -48,7 +48,7 @@ By the end of Season 1 you will be able to:
 | 01 | Welcome to Applied Small Models AI Lab | Jun 8, 2026 | [Watch](https://www.youtube.com/channel/UCvTucZbIhpArq_61DcQJG2w) | [Read](https://smallmodelslab.substack.com/p/welcome-to-the-applied-small-models) | — |
 | 02 | Hello Small Language Models: Running Your First Local LLM | Jun 15, 2026 | [Watch](https://www.youtube.com/watch?v=B_fz1uYU28o) | [Read](https://smallmodelslab.substack.com/p/lab1-hello-small-language-models) | [Hands-on-Notebook](https://github.com/InvincibleIRMan/applied-small-model-ai-lab/tree/main/week-02-hello-slm/code) |
 | 03 | Mastering Chat Templates: The Hidden Language of LLMs | Jun 22, 2026 | [Watch](https://youtu.be/B4p_ERF6oUw) | [Read](https://smallmodelslab.substack.com/p/lab2-chat-templates-talking-to-language) | [Hands-on-Notebook](https://github.com/InvincibleIRMan/applied-small-model-ai-lab/blob/main/week-03-chat-templates/code/Chat_Templates_Tutorial.ipynb) |
-| 04 | Why Fine-Tuning Matters: Beyond Prompt Engineering | Jun 29, 2026 | — | — | — |
+| 04 | Why Fine-Tuning Matters: Beyond Prompt Engineering | Jun 29, 2026 | — | — | [Hands-on-Notebook](https://github.com/InvincibleIRMan/applied-small-model-ai-lab/blob/main/week-04-why-fine-tuning-matters/code/why_fine_tunning-matters.ipynb) |
 | 05 | Fine-Tuning Small Language Models for Specialized Tasks | Jul 6, 2026 | — | — | — |
 | 06 | Deploying Small Language Models with llama.cpp | Jul 13, 2026 | — | — | — |
 
