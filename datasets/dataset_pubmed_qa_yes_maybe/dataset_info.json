@@ -1,0 +1,70 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "pubid": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "long_answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "final_decision": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "n_context_paragraphs": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "context_full_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context_labels": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "meshes": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "n_meshes": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "reasoning_required_pred": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reasoning_free_pred": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question_len": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "long_answer_len": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "context_len": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
